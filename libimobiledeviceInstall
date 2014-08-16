@@ -1,28 +1,7 @@
-# libimobiledeviceInstaller installs a copy of libimobiledevice, an idevice communicator, to your computer.
-# Copyright (C) 2014 Dayt0n
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#
-# If it may occur that anything goes wrong with use of this product
-# on your computer, please contact Dayt0n at <daytonhasty@gmail.com>.
-#
-# If you did not recieve a copy of the GNU General Publice License with
-# this product, it is stolen and should not be used. Please contact
-# Dayt0n with the name of the person/website that you got this product
-# from to keep computers from possibly becoming infected.
-#
-
+# /bin/sh
+# libimobiledeviceInstall
+# 
+# Created by Dayt0n
 clear
 read -p "Have you already installed HomeBrew? [y or n]: " brewinstalled
 if [[ $brewinstalled = y ]]; then
