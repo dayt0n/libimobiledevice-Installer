@@ -7,5 +7,5 @@ Credits
 =======
 
 + [Dayt0n](http://twitter.com/daytonhasty)
-+ [HomeBrew](brew.sh)
++ [HomeBrew](http://brew.sh)
 + [libimobiledevice](http://libimobiledevice.org)
